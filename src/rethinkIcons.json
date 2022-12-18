@@ -1,0 +1,11 @@
+{
+    "folder": "_folder",
+    "file": "_file",
+    "folderExpanded": "_folder_exp",
+    "hidesExplorerArrows": true,
+    "iconDefinitions": {
+        "_folder": { "iconPath": "./icons/folder.svg" },
+        "_file": { "iconPath": "./icons/file.svg" },
+        "_folder_exp": { "iconPath": "./icons/folder_exp.svg" }
+    }
+}

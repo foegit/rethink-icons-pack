@@ -1,0 +1,32 @@
+{
+    "name": "rethink-icon-pack",
+    "displayName": "Rethink",
+    "description": "Rethink Icon Pack",
+    "version": "0.0.0",
+    "repository": "https://github.com/foegit/rethink-icons-pack",
+    "icon": "static/logo.png",
+    "author": {
+        "email": "foegit@gmail.com",
+        "name": "Serhii Hlavatskyi"
+    },
+    "publisher": "SerhiiHlavatskyi",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "icons",
+        "alternative"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "rethink.icons",
+                "label": "Rethink Icons",
+                "path": "./src/rethinkIcons.json"
+            }
+        ]
+    }
+}
